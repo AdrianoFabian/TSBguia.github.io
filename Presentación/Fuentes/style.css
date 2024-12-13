@@ -1,0 +1,58 @@
+.cuerpo {
+    font-family: serif;
+    margin: 0;
+}
+
+.boton {
+    margin: 2%;
+    float: right;
+    width: 100px; 
+    height: 100px;
+    display:sroll;
+    position: fixed;
+    bottom:0px;right: 0px;
+}
+
+.cuadro1 {
+    margin: 2%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    background-color: white;
+}
+
+.cuadro2 {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cuadro3 {
+    margin: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 5px solid black;
+}
+
+.cuadro4 {
+    margin: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 5px solid black;
+}

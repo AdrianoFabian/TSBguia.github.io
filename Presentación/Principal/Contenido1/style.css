@@ -1,0 +1,85 @@
+.cuerpo {
+    font-family: serif;
+    margin: 0;
+}
+
+.cuadro1 {
+    background-image: url(personajes.jpg);
+    background-size: 750px 100px;
+    margin: 5%;
+    margin-left: 27%;
+    margin-right: 27%;
+    margin-top: 3%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 110px;
+}
+
+.cuadro2 {
+    flex-direction: column;
+    background-color: white;
+    margin-top: 30px;
+    margin: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.cuadro3 {
+    border: 5px solid black;
+    margin: 5%;
+    margin-top: 5px;
+    text-align: center;
+    align-items:center ;
+    justify-content: center;
+}
+
+.cuadro4 {
+    border: 5px solid black;
+    margin: 5%;
+    margin-top: 5px;
+    text-align: center;
+    align-items:center ;
+    justify-content: center;
+}
+
+.subcuadro1 {
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+    border: 5px solid black;
+}
+
+.cuadro5 {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.cuadro6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cuadro7 {
+    border: 5px solid black;
+    margin: 15%;
+    margin-top: 15px;
+    text-align: center;
+    align-items:center ;
+    justify-content: center;
+}
+
+.boton {
+    margin: 2%;
+    float: right;
+    width: 100px; 
+    height: 100px;
+    display:sroll;
+    position: fixed;
+    bottom:0px;right: 0px;
+}
+
