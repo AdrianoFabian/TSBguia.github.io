@@ -1,0 +1,80 @@
+
+.cuerpo {
+    background-image: url(Map1.webp);
+    background-size: cover;
+}
+
+.flotante {
+    margin: 2%;
+    float: right;
+    width: 100px; 
+    height: 100px;
+    display:sroll;
+    position: fixed;
+    bottom:0px;right: 0px;
+}
+
+.encabezado {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 6%;
+}
+
+.cuadro1 {
+    background-color: white;
+    margin: 3%;
+    text-align: center;
+}
+
+.cuadro2 {
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%
+}
+
+.cuadro3 {
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 5%;
+    border: 5px solid black;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+p {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.cuadroX {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.cuadroY {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cuadroZ {
+    border: 5px solid black;
+    margin: 15%;
+    margin-top: 15px;
+    text-align: center;
+    align-items:center ;
+    justify-content: center;
+}

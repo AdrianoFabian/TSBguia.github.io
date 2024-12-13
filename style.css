@@ -1,0 +1,70 @@
+.cuerpo {
+    margin: 0;
+    font-family: serif;
+}
+
+header {
+    display: flex;
+    background-image: url(saitama-one-punch-man-3218.webp);
+    background-size: cover;
+    height: 25vh;
+    align-items: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 2%;
+    text-align: center;
+}
+
+.cuadro1 {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.cuadro2 {
+    background-color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 5%;
+    margin-top: 2%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: xx-large;
+}
+
+.cuadro3 {
+    text-align: center;
+    margin: 5%;
+    margin-top: 2%;
+}
+
+.img1 {
+    width: 1200px;
+    height: 500px;
+}
+
+.cuadro4 {
+    background-color: white;
+    text-align: justify;
+    font-size: 50px;
+    margin: 5%;
+    align-items: center;
+}
+
+.cuadro5 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+ .cuadro6 {
+    justify-content: center;
+    text-align: center; 
+    align-items: center;
+    display: flex;
+ }

@@ -1,0 +1,80 @@
+body {
+    background-image: url(mapa.webp);
+    background-size: cover;
+}
+
+.encabezado {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 6%;
+}
+
+.cuadro1 {
+    background-color: white;
+    margin: 3%;
+    text-align: center;
+}
+
+.cuadro2 {
+    border: 5px solid black;
+    margin: 5%;
+    text-align: center;
+    align-items:center ;
+    justify-content: center;
+    background-color: white;
+    margin-top: 2%;
+}
+
+.cuadro3 {
+    margin: 5%;
+    text-align: center;
+    align-items:center ;
+    justify-content: center;
+    background-color: white;
+}
+
+.boton {
+    margin: 2%;
+    float: right;
+    width: 100px; 
+    height: 100px;
+    display:sroll;
+    position: fixed;
+    bottom:0px;right: 0px;
+}
+
+.cuadroX {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.cuadroY {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cuadroZ {
+    border: 5px solid black;
+    margin: 15%;
+    margin-top: 15px;
+    text-align: center;
+    align-items:center ;
+    justify-content: center;
+}
+
+.lista {
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+
+.lista1 {
+    margin: 5%;
+}
